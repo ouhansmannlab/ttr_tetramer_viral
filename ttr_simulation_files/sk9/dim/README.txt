@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-sk9 dim simulation. Sk9 binds to dimer-dimer interface of ttr at the begining of the simulation.
 
-sk9_dim_initial.gro - Initial structure of ttr-sk9 dim simulation
+sk9_dim_initial.pdb - Initial structure of ttr-sk9 dim simulation
 sk9_dim_final.pdb - Final structure of ttr-sk9 dim simulation
 
 ions.mdp  ; Parameter file for ion addition
