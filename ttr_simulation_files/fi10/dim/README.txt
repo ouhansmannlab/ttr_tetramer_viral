@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-fi10 dim simulation. Fi10 binds to dimer-dimer interface of ttr at the begining of the simulation.
 
-fi10_dim_initial.gro - Initial structure of ttr-fi10 dim simulation
+fi10_dim_initial.pdb - Initial structure of ttr-fi10 dim simulation
 fi10_dim_final.pdb - Final structure of ttr-fi10 dim simulation
 
 ions.mdp  ; Parameter file for ion addition
