@@ -1,7 +1,7 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-fi10 random simulation. Fi10 binds to 3-4 monomer-monomer interface of ttr at the begining of the simulation.
 Starting conformation was obtained by performing docking calculations assigning the active residues randomly spread over the entire TTR surface.
 
-fi10_random_initial.gro - Initial structure of ttr-fi10 random simulation
+fi10_random_initial.pdb - Initial structure of ttr-fi10 random simulation
 fi10_random_final.pdb - Final structure of ttr-fi10 random simulation
 
 ions.mdp  ; Parameter file for ion addition
