@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr control-trial 3 simulation.
 
-control_initial.gro - Initial structure of control-trial 3 simulation
+control_t3_initial.pdb - Initial structure of control-trial 3 simulation
 control_t3_final.pdb - Final structure of control-trial 3 simulation
 
 ions.mdp  ; Parameter file for ion addition
