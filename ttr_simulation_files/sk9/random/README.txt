@@ -1,7 +1,7 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-sk9 random simulation. Sk9 binds to 3-4 monomer-monomer interface of ttr at the begining of the simulation.
 Starting conformation was obtained by performing docking calculations assigning the active residues randomly spread over the entire TTR surface.
 
-sk9_random_initial.gro - Initial structure of ttr-sk9 random simulation
+sk9_random_initial.pdb - Initial structure of ttr-sk9 random simulation
 sk9_random_final.pdb - Final structure of ttr-sk9 random simulation
 
 ions.mdp  ; Parameter file for ion addition
