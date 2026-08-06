@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-sk9 mon simulation. Sk9 binds to 1-2 monomer-monomer interface of ttr at the begining of the simulation.
 
-sk9_mon_initial.gro - Initial structure of ttr-sk9 mon simulation
+sk9_mon_initial.pdb - Initial structure of ttr-sk9 mon simulation
 sk9_mon_final.pdb - Final structure of ttr-sk9 mon simulation
 
 ions.mdp  ; Parameter file for ion addition
