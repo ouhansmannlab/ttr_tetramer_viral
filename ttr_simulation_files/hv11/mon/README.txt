@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-hv11 mon simulation. Hv11 binds to 1-2 monomer-monomer interface of ttr at the begining of the simulation.
 
-hv11_mon_initial.gro - Initial structure of ttr-hv11 mon simulation
+hv11_mon_initial.pdb - Initial structure of ttr-hv11 mon simulation
 hv11_mon_final.pdb - Final structure of ttr-hv11 mon simulation
 
 ions.mdp  ; Parameter file for ion addition
