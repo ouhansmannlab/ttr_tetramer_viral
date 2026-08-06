@@ -1,6 +1,6 @@
 This directory contains initial and final pdb structures, parameter files, and topology files used in ttr-hv11 dim simulation. Hv11 binds to dimer-dimer interface of ttr at the begining of the simulation.
 
-hv11_dim_initial.gro - Initial structure of ttr-hv11 dim simulation
+hv11_dim_initial.pdb - Initial structure of ttr-hv11 dim simulation
 hv11_dim_final.pdb - Final structure of ttr-hv11 dim simulation
 
 ions.mdp  ; Parameter file for ion addition
